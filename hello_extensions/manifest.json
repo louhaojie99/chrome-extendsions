@@ -1,0 +1,10 @@
+{
+  "name": "你好，世界上的扩展！",
+  "description": "基础层扩展",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "hello_extensions.png"
+  }
+}
