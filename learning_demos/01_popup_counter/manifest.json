@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Popup Counter",
+  "version": "1.0.0",
+  "description": "一个用于学习 Popup 的计数器插件",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
